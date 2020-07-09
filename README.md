@@ -2,9 +2,9 @@
 
 Writing PHP, Rust, JavaScript/TypeScript most, full-stack developer and operations engineer.
 
-🏠Blog: https://soha.moe
+🏠Blog(Chinese only): https://soha.moe
 
-📧Email: soha [at] lohu.info
+📧Email: *check my GitHub Profile*
 
 🌐Operating [AS209306](https://bgp.he.net/AS209306)
 
