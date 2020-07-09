@@ -4,7 +4,7 @@ Writing PHP, Rust, JavaScript/TypeScript most, full-stack developer and operatio
 
 🏠Blog(Chinese only): https://soha.moe
 
-📧Email: *check my GitHub Profile*
+📧Email: *see my GitHub Profile*
 
 🌐Operating [AS209306](https://bgp.he.net/AS209306)
 
