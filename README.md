@@ -1,4 +1,4 @@
-### Here is Soha Jin
+### 🎉 Here is Soha Jin
 
 Writing PHP, Rust, JavaScript/TypeScript most, full-stack developer and operations engineer.
 
@@ -13,3 +13,5 @@ Writing PHP, Rust, JavaScript/TypeScript most, full-stack developer and operatio
 Check more information on my résumé 👇
   - English: https://sohaj.in
   - 中文: https://jin.sh
+
+[![Soha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moesoha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
