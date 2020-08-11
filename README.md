@@ -14,7 +14,5 @@ Check more information on my résumé 👇
   - English: https://sohaj.in
   - 中文: https://jin.sh
 
-[![Soha's GitHub Stats]()](https://github.com/anuraghazra/github-readme-stats)
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=moesoha&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesoha&layout=compact" />
