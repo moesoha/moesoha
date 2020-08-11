@@ -14,5 +14,5 @@ Check more information on my résumé 👇
   - English: https://sohaj.in
   - 中文: https://jin.sh
 
-<div style="display: inline-block; max-width: 48%;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=moesoha&show_icons=true" /></div>
-<div style="display: inline-block; max-width: 48%;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesoha&layout=compact" /></div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=moesoha&show_icons=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesoha&layout=compact" /></a>
