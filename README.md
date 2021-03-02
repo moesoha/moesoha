@@ -1,6 +1,6 @@
 ### 🎉 Here is Soha Jin
 
-Writing PHP, Rust, JavaScript/TypeScript most, full-stack developer and operations engineer.
+Writing PHP, Rust, JavaScript/TypeScript most, full-stack developer, operations engineer and network engineer.
 
 🏠Blog(Chinese only): https://soha.moe
 
