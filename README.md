@@ -15,3 +15,7 @@ Check more information on my résumé 👇
   - 中文: https://jin.sh
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api?username=moesoha&show_icons=true"><img style="max-width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moesoha&layout=compact"></a>
+
+----------
+
+Thank [@NickCao](https://github.com/NickCao) a million for sponsoring me 🥰.
